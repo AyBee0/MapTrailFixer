@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapTrailFixer", "MapTrailFixer\MapTrailFixer.csproj", "{73903CD2-669C-4200-8E2E-6FD53249EF90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fixer", "Parser\Fixer.csproj", "{95394A49-1A5B-4F32-8820-9FF3B9BB27CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogg", "Ogg\Ogg.csproj", "{31B5294C-0241-48DC-BE2A-3DACC1EF36D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73903CD2-669C-4200-8E2E-6FD53249EF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73903CD2-669C-4200-8E2E-6FD53249EF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73903CD2-669C-4200-8E2E-6FD53249EF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73903CD2-669C-4200-8E2E-6FD53249EF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95394A49-1A5B-4F32-8820-9FF3B9BB27CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95394A49-1A5B-4F32-8820-9FF3B9BB27CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95394A49-1A5B-4F32-8820-9FF3B9BB27CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95394A49-1A5B-4F32-8820-9FF3B9BB27CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B5294C-0241-48DC-BE2A-3DACC1EF36D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B5294C-0241-48DC-BE2A-3DACC1EF36D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B5294C-0241-48DC-BE2A-3DACC1EF36D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B5294C-0241-48DC-BE2A-3DACC1EF36D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A77495-9F9A-4E84-B015-A09AE15B2C73}
+	EndGlobalSection
+EndGlobal
